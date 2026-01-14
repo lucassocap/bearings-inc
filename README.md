@@ -1,6 +1,6 @@
-# Bearings Inc - Odoo 17 eCommerce Website
+# Bearings Inc - Odoo 18 eCommerce Website
 
-Professional bearing distributor website built with Odoo 17.
+Professional bearing distributor website built with Odoo 18.
 
 ## 🎯 Project Overview
 
@@ -73,7 +73,7 @@ bearings/
 
 ## 🛠️ Tech Stack
 
-- **Odoo**: 17.0 (latest stable)
+- **Odoo**: 18.0 (latest)
 - **Database**: PostgreSQL 15
 - **Container**: Docker
 - **Language**: Python 3.9+
